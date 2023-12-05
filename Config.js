@@ -1,1 +1,1 @@
-export const userUrl='http://localhost:8000/api';
+export const userUrl='https://student-management-for-digiledge-backend.onrender.com/api';
