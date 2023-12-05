@@ -1,0 +1,17 @@
+.card{
+    width: 20rem;
+    padding-top: 10px;
+    border-radius: 25px;
+}
+.img{
+   padding-left: 35px;
+    width: 285px ;
+    height: 300px;
+    object-fit: cover;
+    overflow: hidden;
+  
+}
+
+.col{
+    padding-top: 10px;
+}
